@@ -29,7 +29,5 @@ The image also showcases a grid of six promotional posts focused on programming 
 5. **Learning Many Programming Languages vs. Focusing on One**
 6. **Learning Coding Faster in Six Easy Steps**
 
-This summary encapsulates the key details from the Instagram profile, highlighting the follower count, bio information, and recent post themes. This would be an excellent addition to your GitHub README to showcase your online presence and expertise!
 
-Screenshot
 <img width="370" alt="Screenshot 2024-12-22 at 1 41 32 AM" src="https://github.com/user-attachments/assets/c02ce295-12d7-4e8d-8eaf-50e60df0c78f" />
